@@ -1,8 +1,6 @@
 # Web Personal
 
-Proyecto revisado y funcionando perfectamente con Python 3.10.2 y Django 4.0.2
-
-Web Personal project based on the creation of a simple website with a dynamic portfolio and an administrator panel to manage the portfolio projects. Works with Python 3.10.2 y Django 4.0.2
+Django Project based on the creation of a simple website with a dynamic portfolio and an administrator panel to manage the portfolio projects. Works with Python 3.10.2 y Django 4.0.2
 
 ## Connect With Me! 
 
